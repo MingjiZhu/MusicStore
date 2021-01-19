@@ -47,10 +47,10 @@ namespace Music_Store.Data
             //Initialize User1/Customer1 data
             var user1 = new User
             {
-                UserName = "bsun1453@conestogac.on.ca",
-                Email = "bsun1453@conestogac.on.ca",
+                UserName = "bill@gmail.com",
+                Email = "bill@gmail.com",
                 Firstname = "Bill",
-                Lastname = "Sun",
+                Lastname = "Tester",
                 Nickname = "Bill"
             };
             var customer1 = new Customer
@@ -75,10 +75,10 @@ namespace Music_Store.Data
             //Initialize User2/Customer2 data
             var user2 = new User
             {
-                UserName = "bpowers6250@conestogac.on.ca",
-                Email = "bpowers6250@conestogac.on.ca",
+                UserName = "ben@gmail.com",
+                Email = "ben@gmail.com",
                 Firstname = "Ben",
-                Lastname = "Powers",
+                Lastname = "Tester",
                 Nickname = "Ben"
             };
             var customer2 = new Customer
@@ -319,11 +319,11 @@ namespace Music_Store.Data
             //Initialize User4/Employee2 data
             var user4 = new User
             {
-                UserName = "glee4519@conestogac.on.ca",
-                Email = "glee4519@conestogac.on.ca",
-                Firstname = "Gyeongsik",
-                Lastname = "Lee",
-                Nickname = "Gyeongsik"
+                UserName = "jayden@gmail.com",
+                Email = "jayden@gmail.com",
+                Firstname = "Jayden",
+                Lastname = "Tester",
+                Nickname = "Jayden"
             };
             var employee2 = new Employee { };
             user4.Employee = employee2;
